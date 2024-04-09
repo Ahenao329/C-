@@ -1,0 +1,8 @@
+C:\AHENAO\C#\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\AHENAO\C#\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\AHENAO\C#\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\AHENAO\C#\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\AHENAO\C#\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\AHENAO\C#\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\AHENAO\C#\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\AHENAO\C#\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

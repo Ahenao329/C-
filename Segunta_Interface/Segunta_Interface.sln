@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Segunta_Interface", "Segunta_Interface.csproj", "{B5BF5A31-D427-41B0-B454-B156121FC77C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5BF5A31-D427-41B0-B454-B156121FC77C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5BF5A31-D427-41B0-B454-B156121FC77C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5BF5A31-D427-41B0-B454-B156121FC77C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5BF5A31-D427-41B0-B454-B156121FC77C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {322E8C62-2198-4B7C-B35E-5A0D9178F05D}
+	EndGlobalSection
+EndGlobal

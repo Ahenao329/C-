@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MiuMhaglJ+pQ5pAYWUDKqLDKZ7vYq/Hurx2ryDzdb2WiPBoAeTiUTpfbbNrFLXQ3HKldB6TmdxnJ7QuU+mNH0g==",
+  "success": true,
+  "projectFilePath": "C:\\AHENAO\\C#\\MeddflixApi\\MeddflixApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AndersonHenao\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\AndersonHenao\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\AndersonHenao\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\AndersonHenao\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\AndersonHenao\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\AndersonHenao\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

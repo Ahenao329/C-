@@ -1,0 +1,16 @@
+C:\AHENAO\C#\Primera_Interface\bin\Debug\Primera_Interface.exe.config
+C:\AHENAO\C#\Primera_Interface\bin\Debug\Primera_Interface.exe
+C:\AHENAO\C#\Primera_Interface\bin\Debug\Primera_Interface.pdb
+C:\AHENAO\C#\Primera_Interface\obj\Debug\Primera_Interface.csproj.AssemblyReference.cache
+C:\AHENAO\C#\Primera_Interface\obj\Debug\Primera_Interface.csproj.SuggestedBindingRedirects.cache
+C:\AHENAO\C#\Primera_Interface\obj\Debug\MainWindow.g.cs
+C:\AHENAO\C#\Primera_Interface\obj\Debug\App.g.cs
+C:\AHENAO\C#\Primera_Interface\obj\Debug\Primera_Interface_MarkupCompile.cache
+C:\AHENAO\C#\Primera_Interface\obj\Debug\Primera_Interface_MarkupCompile.lref
+C:\AHENAO\C#\Primera_Interface\obj\Debug\MainWindow.baml
+C:\AHENAO\C#\Primera_Interface\obj\Debug\Primera_Interface.g.resources
+C:\AHENAO\C#\Primera_Interface\obj\Debug\Primera_Interface.Properties.Resources.resources
+C:\AHENAO\C#\Primera_Interface\obj\Debug\Primera_Interface.csproj.GenerateResource.cache
+C:\AHENAO\C#\Primera_Interface\obj\Debug\Primera_Interface.csproj.CoreCompileInputs.cache
+C:\AHENAO\C#\Primera_Interface\obj\Debug\Primera_Interface.exe
+C:\AHENAO\C#\Primera_Interface\obj\Debug\Primera_Interface.pdb

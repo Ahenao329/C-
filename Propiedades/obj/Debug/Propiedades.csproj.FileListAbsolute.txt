@@ -1,0 +1,8 @@
+C:\AHENAO\C#\Propiedades\bin\Debug\Propiedades.exe.config
+C:\AHENAO\C#\Propiedades\bin\Debug\Propiedades.exe
+C:\AHENAO\C#\Propiedades\bin\Debug\Propiedades.pdb
+C:\AHENAO\C#\Propiedades\obj\Debug\Propiedades.csproj.AssemblyReference.cache
+C:\AHENAO\C#\Propiedades\obj\Debug\Propiedades.csproj.SuggestedBindingRedirects.cache
+C:\AHENAO\C#\Propiedades\obj\Debug\Propiedades.csproj.CoreCompileInputs.cache
+C:\AHENAO\C#\Propiedades\obj\Debug\Propiedades.exe
+C:\AHENAO\C#\Propiedades\obj\Debug\Propiedades.pdb

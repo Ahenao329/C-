@@ -1,0 +1,8 @@
+C:\AHENAO\C#\ENUM\bin\Debug\ENUM.exe.config
+C:\AHENAO\C#\ENUM\bin\Debug\ENUM.exe
+C:\AHENAO\C#\ENUM\bin\Debug\ENUM.pdb
+C:\AHENAO\C#\ENUM\obj\Debug\ENUM.csproj.AssemblyReference.cache
+C:\AHENAO\C#\ENUM\obj\Debug\ENUM.csproj.SuggestedBindingRedirects.cache
+C:\AHENAO\C#\ENUM\obj\Debug\ENUM.csproj.CoreCompileInputs.cache
+C:\AHENAO\C#\ENUM\obj\Debug\ENUM.exe
+C:\AHENAO\C#\ENUM\obj\Debug\ENUM.pdb

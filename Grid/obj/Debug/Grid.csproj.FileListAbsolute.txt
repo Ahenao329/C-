@@ -1,0 +1,16 @@
+C:\AHENAO\C#\Grid\bin\Debug\Grid.exe.config
+C:\AHENAO\C#\Grid\bin\Debug\Grid.exe
+C:\AHENAO\C#\Grid\bin\Debug\Grid.pdb
+C:\AHENAO\C#\Grid\obj\Debug\Grid.csproj.AssemblyReference.cache
+C:\AHENAO\C#\Grid\obj\Debug\Grid.csproj.SuggestedBindingRedirects.cache
+C:\AHENAO\C#\Grid\obj\Debug\MainWindow.g.cs
+C:\AHENAO\C#\Grid\obj\Debug\App.g.cs
+C:\AHENAO\C#\Grid\obj\Debug\Grid_MarkupCompile.cache
+C:\AHENAO\C#\Grid\obj\Debug\Grid_MarkupCompile.lref
+C:\AHENAO\C#\Grid\obj\Debug\MainWindow.baml
+C:\AHENAO\C#\Grid\obj\Debug\Grid.g.resources
+C:\AHENAO\C#\Grid\obj\Debug\Grid.Properties.Resources.resources
+C:\AHENAO\C#\Grid\obj\Debug\Grid.csproj.GenerateResource.cache
+C:\AHENAO\C#\Grid\obj\Debug\Grid.csproj.CoreCompileInputs.cache
+C:\AHENAO\C#\Grid\obj\Debug\Grid.exe
+C:\AHENAO\C#\Grid\obj\Debug\Grid.pdb

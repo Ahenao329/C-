@@ -1,0 +1,8 @@
+C:\AHENAO\C#\ConsoleAppArrays\bin\Debug\ConsoleAppArrays.exe.config
+C:\AHENAO\C#\ConsoleAppArrays\bin\Debug\ConsoleAppArrays.exe
+C:\AHENAO\C#\ConsoleAppArrays\bin\Debug\ConsoleAppArrays.pdb
+C:\AHENAO\C#\ConsoleAppArrays\obj\Debug\ConsoleAppArrays.csproj.AssemblyReference.cache
+C:\AHENAO\C#\ConsoleAppArrays\obj\Debug\ConsoleAppArrays.csproj.SuggestedBindingRedirects.cache
+C:\AHENAO\C#\ConsoleAppArrays\obj\Debug\ConsoleAppArrays.csproj.CoreCompileInputs.cache
+C:\AHENAO\C#\ConsoleAppArrays\obj\Debug\ConsoleAppArrays.exe
+C:\AHENAO\C#\ConsoleAppArrays\obj\Debug\ConsoleAppArrays.pdb

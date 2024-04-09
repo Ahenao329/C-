@@ -1,0 +1,8 @@
+C:\AHENAO\C#\ProyectoHerencia\bin\Debug\ProyectoHerencia.exe.config
+C:\AHENAO\C#\ProyectoHerencia\bin\Debug\ProyectoHerencia.exe
+C:\AHENAO\C#\ProyectoHerencia\bin\Debug\ProyectoHerencia.pdb
+C:\AHENAO\C#\ProyectoHerencia\obj\Debug\ProyectoHerencia.csproj.AssemblyReference.cache
+C:\AHENAO\C#\ProyectoHerencia\obj\Debug\ProyectoHerencia.csproj.SuggestedBindingRedirects.cache
+C:\AHENAO\C#\ProyectoHerencia\obj\Debug\ProyectoHerencia.csproj.CoreCompileInputs.cache
+C:\AHENAO\C#\ProyectoHerencia\obj\Debug\ProyectoHerencia.exe
+C:\AHENAO\C#\ProyectoHerencia\obj\Debug\ProyectoHerencia.pdb
